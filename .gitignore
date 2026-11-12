@@ -1,0 +1,10 @@
+# Generated build artifacts
+z.iso
+z/*.iso
+output/*.iso
+output/*.squashfs
+z/work/
+z/iso_root/
+z/extracted/
+*.iso
+*.squashfs
